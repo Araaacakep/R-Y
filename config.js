@@ -1,10 +1,10 @@
 // Thanks For Allah
-// AlyaaXzy
+// tta
 // BOTCAHX
 
 
 let fs = require('fs')
-global.owner = ['6285730903853', '6282221792667','6285730903853', '6282221792667', '6285730903853'] // Letakan nomor kamu disini
+global.owner = ['6285249231619', '6285709141480 // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -41,8 +41,8 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'Exc'
-global.author = 'NyyXz'
+global.packname = 'Tata'
+global.author = 'Tata'
 
 global.wait = '「 ⏱️ 」Harap tunggu...'
 global.eror = '「❗」Server ERROR!'
